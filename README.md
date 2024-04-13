@@ -12,7 +12,7 @@
 ## ✉ Find me on:
 <br />
 <p align="left">
- <a href="www.linkedin.com/in/william-h-tucker-iv/" target="_blank" rel="noopener noreferrer"> 
+ <a href="https://www.linkedin.com/in/william-h-tucker-iv/" target="_blank" rel="noopener noreferrer"> 
   <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' align='left' />
  </a>
  <a href="mailto:william.tucker29@gmail.com"> 
