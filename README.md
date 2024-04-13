@@ -9,6 +9,8 @@
 - 🤝 Eager to collaborate on diverse projects with fellow developers.
 - 🗨️ Feel free to inquire about any topic.
 
+---
+
 ## ✉ Find me on:
 <br />
 <p align="left">
@@ -21,12 +23,21 @@
 </p>
 <br />
 
+---
+
 ## 🧰 Languages and Tools:
 <br />
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,jquery,react,express,babel,jest,vscode,bash,git,github,aws,mongodb,mysql,nodejs,postgres,postman,replit,supabase,webpack,figma,nginx,npm,redis,vite" />
   </a>
+</p>
+
+---
+
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=wtucker29&theme=nord&show_icons=true' height='250px' width='60%'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=wtucker29&size_weight=0.5&count_weight=0.5&theme=nord'  height='250px' width='35%' />
 </p>
 
 <!--
